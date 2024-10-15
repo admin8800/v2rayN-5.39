@@ -1,0 +1,14 @@
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\bin\Release\net48\v2rayUpgrade.exe.config
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\bin\Release\net48\v2rayUpgrade.exe
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\bin\Release\net48\v2rayUpgrade.pdb
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\obj\Release\net48\v2rayUpgrade.csproj.AssemblyReference.cache
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\obj\Release\net48\v2rayUpgrade.csproj.SuggestedBindingRedirects.cache
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\obj\Release\net48\v2rayUpgrade.MainForm.resources
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\obj\Release\net48\v2rayUpgrade.Properties.Resources.resources
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\obj\Release\net48\v2rayUpgrade.csproj.GenerateResource.cache
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\obj\Release\net48\v2rayUpgrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\obj\Release\net48\v2rayUpgrade.AssemblyInfoInputs.cache
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\obj\Release\net48\v2rayUpgrade.AssemblyInfo.cs
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\obj\Release\net48\v2rayUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\obj\Release\net48\v2rayUpgrade.exe
+C:\Users\xiaoa\Desktop\web\v2rayN-5.39\v2rayN\v2rayUpgrade\obj\Release\net48\v2rayUpgrade.pdb

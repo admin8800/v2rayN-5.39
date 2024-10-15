@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\xiaoa\\Desktop\\web\\v2rayN-5.39\\v2rayN\\v2rayUpgrade\\v2rayUpgrade.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\xiaoa\\Desktop\\web\\v2rayN-5.39\\v2rayN\\v2rayUpgrade\\v2rayUpgrade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xiaoa\\Desktop\\web\\v2rayN-5.39\\v2rayN\\v2rayUpgrade\\v2rayUpgrade.csproj",
+        "projectName": "v2rayUpgrade",
+        "projectPath": "C:\\Users\\xiaoa\\Desktop\\web\\v2rayN-5.39\\v2rayN\\v2rayUpgrade\\v2rayUpgrade.csproj",
+        "packagesPath": "C:\\Users\\xiaoa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xiaoa\\Desktop\\web\\v2rayN-5.39\\v2rayN\\v2rayUpgrade\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xiaoa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.427\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

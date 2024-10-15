@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\xiaoa\\Desktop\\web\\v2rayN-5.39\\v2rayN\\v2rayN\\v2rayN.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\xiaoa\\Desktop\\web\\v2rayN-5.39\\v2rayN\\v2rayN\\v2rayN.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\xiaoa\\Desktop\\web\\v2rayN-5.39\\v2rayN\\v2rayN\\v2rayN.csproj",
+        "projectName": "v2rayN",
+        "projectPath": "C:\\Users\\xiaoa\\Desktop\\web\\v2rayN-5.39\\v2rayN\\v2rayN\\v2rayN.csproj",
+        "packagesPath": "C:\\Users\\xiaoa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\xiaoa\\Desktop\\web\\v2rayN-5.39\\v2rayN\\v2rayN\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xiaoa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.21.5, )"
+            },
+            "Grpc.Core": {
+              "target": "Package",
+              "version": "[2.46.3, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.47.0, )"
+            },
+            "NHotkey": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "NHotkey.WindowsForms": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Resources.Extensions": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "ZXing.Net": {
+              "target": "Package",
+              "version": "[0.16.8, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.427\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

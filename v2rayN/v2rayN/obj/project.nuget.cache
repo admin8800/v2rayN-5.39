@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "dgSpecHash": "yjoflT4IVXnfmg+E/ft0pFExqSBkkQwQOpoqgtmUaZfM5KdL1GvHK3tbWEOUaVlwhrKuYqGXSSjLs3eYo2fRrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xiaoa\\Desktop\\web\\v2rayN-5.39\\v2rayN\\v2rayN\\v2rayN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xiaoa\\.nuget\\packages\\google.protobuf\\3.21.5\\google.protobuf.3.21.5.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\grpc.core\\2.46.3\\grpc.core.2.46.3.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\grpc.core.api\\2.46.3\\grpc.core.api.2.46.3.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\grpc.tools\\2.47.0\\grpc.tools.2.47.0.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\nhotkey\\2.1.0\\nhotkey.2.1.0.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\nhotkey.windowsforms\\2.1.0\\nhotkey.windowsforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\system.resources.extensions\\4.6.0\\system.resources.extensions.4.6.0.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\xiaoa\\.nuget\\packages\\zxing.net\\0.16.8\\zxing.net.0.16.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "v2rayN 依赖于 System.Resources.Extensions (>= 4.0.0)，但找不到 System.Resources.Extensions 4.0.0。 已解决 System.Resources.Extensions 4.6.0 的近似最佳匹配。 ",
+      "libraryId": "System.Resources.Extensions",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    }
+  ]
+}
