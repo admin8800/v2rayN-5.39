@@ -1,10 +1,12 @@
 ### v2rayN-5.39旧界面版
 
-下载`.NET Framework 4.8`：https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48
+下载vscode：https://code.visualstudio.com
+
+下载`.NET Framework 4.8`环境：https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48
 
 `SDK`包和`运行时`都要下载安装。
 
-下载`.NET 6 SDK`：https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
+下载`.NET 6 SDK`环境：https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
 
 添加变量：此电脑 → 高级系统设置 → 环境变量 → 系统变量 → `Path` → 新建 → 填入`C:\Program Files (x86)\dotnet` → 确认
 
