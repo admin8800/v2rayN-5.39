@@ -17,6 +17,8 @@
 dotnet build --configuration Release
 ```
 
+> 构建完成后的文件在`bin`目录
+
 ---
 
 
