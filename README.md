@@ -4,8 +4,9 @@
 
 `SDK`包和`运行时`都要下载安装。
 
-添加变量：此电脑 → 高级系统设置 → 环境变量 → 系统变量 → `Path` → 新建 → 填入`C:\Program Files (x86)\dotnet` → 确认
+下载`.NET 6 SDK`：https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
 
+添加变量：此电脑 → 高级系统设置 → 环境变量 → 系统变量 → `Path` → 新建 → 填入`C:\Program Files (x86)\dotnet` → 确认
 
 下载本项目，然后`cd v2rayN`
 
