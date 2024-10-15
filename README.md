@@ -1,6 +1,7 @@
 ### v2rayN-5.39旧界面版
 
 下载net4.8环境：https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48
+
 `SDK`包和`运行时`都要下载安装。
 
 下载本项目，然后`cd v2rayN`
