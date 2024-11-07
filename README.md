@@ -14,8 +14,6 @@ win11编译
 
 检查安装：`dotnet --list-sdks`
 
-下载本项目，然后`cd v2rayN`
-
 链接路径`v2rayN\Global.cs`
 
 按钮文字路径`v2rayN\Forms\MainForm.zh-Hans.resx`
