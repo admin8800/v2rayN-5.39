@@ -1,5 +1,7 @@
 ### v2rayN-5.39旧界面版
 
+win11编译
+
 下载vscode：https://code.visualstudio.com
 
 下载`.NET 6 SDK`环境：https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
