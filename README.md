@@ -4,7 +4,7 @@ win11编译
 
 下载vscode：https://code.visualstudio.com
 
-下载`.NET 6 SDK`环境：https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
+下载`.NET 6 SDK`环境，选择64位版本：https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0
 
 添加变量：此电脑 → 高级系统设置 → 环境变量 → 系统变量 → `Path` → 新建 → 填入`C:\Program Files (x86)\dotnet` → 确认
 
