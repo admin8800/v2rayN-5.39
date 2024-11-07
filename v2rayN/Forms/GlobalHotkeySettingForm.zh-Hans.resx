@@ -146,7 +146,7 @@
     <value>不改变系统代理</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>自动配置系统代理</value>
+    <value>开启系统代理</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>77, 12</value>

@@ -1513,7 +1513,7 @@ namespace v2rayN.Handler
                 //Global
                 var item1 = new RoutingItem()
                 {
-                    remarks = "全局(Global)",
+                    remarks = "全局代理(Global)",
                     url = string.Empty,
                 };
                 AddBatchRoutingRules(ref item1, Utils.GetEmbedText(Global.CustomRoutingFileName + "global"));

@@ -352,7 +352,7 @@
     <value>172, 22</value>
   </data>
   <data name="menuGlobal.Text" xml:space="preserve">
-    <value>自动配置系统代理</value>
+    <value>开启系统代理</value>
   </data>
   <data name="menuKeepNothing.Size" type="System.Drawing.Size, System.Drawing">
     <value>172, 22</value>
@@ -526,25 +526,25 @@
     <value>85, 53</value>
   </data>
   <data name="tsbCheckUpdate.Text" xml:space="preserve">
-    <value>  检查更新  </value>
+    <value>  检查内核  </value>
   </data>
   <data name="tsbAbout.Text" xml:space="preserve">
-    <value>机场群主</value>
+    <value>留言联系</value>
   </data>
   <data name="tsbV2rayWebsite.Text" xml:space="preserve">
-    <value>机场官网</value>
+    <value>定制专线</value>
   </data>
   <data name="tsbHelp.Size" type="System.Drawing.Size, System.Drawing">
     <value>69, 53</value>
   </data>
   <data name="tsbHelp.Text" xml:space="preserve">
-    <value>   机场网站   </value>
+    <value>   购买节点   </value>
   </data>
   <data name="tsbPromotion.Size" type="System.Drawing.Size, System.Drawing">
     <value>68, 53</value>
   </data>
   <data name="tsbPromotion.Text" xml:space="preserve">
-    <value>    私聊TG    </value>
+    <value>    留言反馈    </value>
   </data>
   <data name="tsbClose.Size" type="System.Drawing.Size, System.Drawing">
     <value>76, 53</value>

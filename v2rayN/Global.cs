@@ -8,8 +8,8 @@ namespace v2rayN
         #region 常量
 
         //public const string DownloadFileName = "v2ray-windows.zip";
-        public const string v2rayWebsiteUrl = @"https://google.com/";
-        public const string AboutUrl = @"https://bing.com/";
+        public const string v2rayWebsiteUrl = @"https://github.com/admin8800/v2rayN-5.39/issues";
+        public const string AboutUrl = @"https://github.com/admin8800/v2rayN-5.39/issues";
         public const string UpdateUrl = AboutUrl + @"/releases";
         public const string v2flyCoreUrl = "https://github.com/v2fly/v2ray-core/releases";
         public const string xrayCoreUrl = "https://github.com/XTLS/Xray-core/releases";
@@ -41,7 +41,7 @@ namespace v2rayN
         /// <summary>
         /// PromotionUrl
         /// </summary>
-        public const string PromotionUrl = @"aHR0cHM6Ly90Lm1lL2dvb2QyMjMzQm90";
+        public const string PromotionUrl = @"aHR0cHM6Ly9naXRodWIuY29tL2FkbWluODgwMC92MnJheU4tNS4zOS9pc3N1ZXM=";
 
         /// <summary>
         /// 本软件配置文件名
